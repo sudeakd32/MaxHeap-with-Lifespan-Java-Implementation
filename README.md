@@ -70,6 +70,7 @@ Level 4: (42,2) (2,1) (30,3) (2,4) (41,4)
 Extracted event -> Priority: 98, Original Lifespan: 1
 
 
+
 Heap Tree (priority-lifespan):
 
 Level 0: (83,3) 
@@ -85,6 +86,7 @@ Level 4: (42,1) (30,2) (2,3)
 Extracted event -> Priority: 83, Original Lifespan: 4
 
 
+
 Heap Tree (priority-lifespan):
 
 Level 0: (71,2) 
@@ -98,6 +100,7 @@ Level 3: (25,1) (14,2) (2,2) (30,1)
 Extracted event -> Priority: 71, Original Lifespan: 4
 
 
+
 Heap Tree (priority-lifespan):
 Level 0: (66,1) 
 
@@ -108,6 +111,7 @@ Level 2: (5,1) (14,1) (2,1)
 Extracted event -> Priority: 66, Original Lifespan: 4
 
 
+
 Heap Tree (priority-lifespan):
 
 Level 0: (5,1) 
@@ -115,13 +119,14 @@ Level 0: (5,1)
 Extracted event -> Priority: 5, Original Lifespan: 5
 
 
+
 Heap Tree (priority-lifespan):
 
 (empty)
 
 ## 🧰 Technologies
-	•	💻 Java 17+
-	•	🧠 Object-Oriented Programming
-	•	🧱 Array-backed Binary Heap
-	•	🔁 Recursive Heapify Logic
+•	💻 Java 17+
+•	🧠 Object-Oriented Programming
+•	🧱 Array-backed Binary Heap
+•	🔁 Recursive Heapify Logic
 
